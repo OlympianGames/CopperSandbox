@@ -1,0 +1,64 @@
+[11:52 AM] [INFO] Adding new scene - Empty Scene - Do not use. (empty-do_not_use)
+[11:52 AM] [INFO] Adding new scene - Engine Assets (engine-assets)
+[11:52 AM] [INFO] Initializing raylib 4.2
+[11:52 AM] [INFO] Supported raylib modules:
+[11:52 AM] [INFO]     > rcore:..... loaded (mandatory)
+[11:52 AM] [INFO]     > rlgl:...... loaded (mandatory)
+[11:52 AM] [INFO]     > rshapes:... loaded (optional)
+[11:52 AM] [INFO]     > rtextures:. loaded (optional)
+[11:52 AM] [INFO]     > rtext:..... loaded (optional)
+[11:52 AM] [INFO]     > rmodels:... loaded (optional)
+[11:52 AM] [INFO]     > raudio:.... loaded (optional)
+[11:52 AM] [INFO] DISPLAY: Trying to enable MSAA x4
+[11:52 AM] [INFO] DISPLAY: Device initialized successfully
+[11:52 AM] [INFO]     > Display size: 1366 x 768
+[11:52 AM] [INFO]     > Screen size:  800 x 450
+[11:52 AM] [INFO]     > Render size:  800 x 450
+[11:52 AM] [INFO]     > Viewport offsets: 0, 0
+[11:52 AM] [INFO] GLAD: OpenGL extensions loaded successfully
+[11:52 AM] [INFO] GL: Supported extensions count: 243
+[11:52 AM] [INFO] GL: OpenGL device information:
+[11:52 AM] [INFO]     > Vendor:   Intel
+[11:52 AM] [INFO]     > Renderer: Intel(R) UHD Graphics
+[11:52 AM] [INFO]     > Version:  3.3.0 - Build 30.0.101.1404
+[11:52 AM] [INFO]     > GLSL:     3.30 - Build 30.0.101.1404
+[11:52 AM] [INFO] GL: VAO extension detected, VAO functions loaded successfully
+[11:52 AM] [INFO] GL: NPOT textures extension detected, full NPOT textures supported
+[11:52 AM] [INFO] GL: DXT compressed textures supported
+[11:52 AM] [INFO] GL: ETC2/EAC compressed textures supported
+[11:52 AM] [INFO] GL: ASTC compressed textures supported
+[11:52 AM] [INFO] TEXTURE: [ID 1] Texture loaded successfully (1x1 | R8G8B8A8 | 1 mipmaps)
+[11:52 AM] [INFO] TEXTURE: [ID 1] Default texture loaded successfully
+[11:52 AM] [INFO] SHADER: [ID 1] Vertex shader compiled successfully
+[11:52 AM] [INFO] SHADER: [ID 2] Fragment shader compiled successfully
+[11:52 AM] [INFO] SHADER: [ID 3] Program shader loaded successfully
+[11:52 AM] [INFO] SHADER: [ID 3] Default shader loaded successfully
+[11:52 AM] [INFO] RLGL: Render batch vertex buffers loaded successfully in RAM (CPU)
+[11:52 AM] [INFO] RLGL: Render batch vertex buffers loaded successfully in VRAM (GPU)
+[11:52 AM] [INFO] RLGL: Default OpenGL state initialized successfully
+[11:52 AM] [INFO] TEXTURE: [ID 2] Texture loaded successfully (128x128 | GRAY_ALPHA | 1 mipmaps)
+[11:52 AM] [INFO] FONT: Default font loaded successfully (224 glyphs)
+[11:52 AM] [INFO] TEXTURE: [ID 3] Texture loaded successfully (512x64 | R8G8B8A8 | 1 mipmaps)
+[11:52 AM] [INFO] Adding new <CopperEngine.Components.Editor.EditorCameraController> to <Engine Assets> scene
+[11:52 AM] [INFO] Adding new <CopperEngine.Components.Editor.EditorCameraDrawer> to <Engine Assets> scene
+[11:52 AM] [INFO] Adding new <CopperEngine.Ui.Windows.InfoWindow> to <Engine Assets> scene
+[11:52 AM] [INFO] Adding new <CopperEngine.Ui.Windows.SceneSwitcherWindow> to <Engine Assets> scene
+[11:52 AM] [INFO] Adding new <CopperEngine.Ui.Windows.ConsoleWindow> to <Engine Assets> scene
+[11:52 AM] [INFO] Adding new <CopperEngine.Ui.Windows.ConfigWindow> to <Engine Assets> scene
+[11:52 AM] [INFO] Starting a new TelepathyServer with a max message size of 16384
+[11:52 AM] [INFO] Adding new scene - NetCode Objects (netcode-objects)
+[11:52 AM] [INFO] Adding new <CopperEngine.NetCode.Server> to <NetCode Objects> scene
+[11:52 AM] [INFO | NETCODE] Server: Start port=7777
+[11:52 AM] [INFO | NETCODE] Server: listening port=7777
+[11:52 AM] [INFO] Loading new scene - NetCode Objects (netcode-objects)
+[11:52 AM] [INFO | NETCODE] Server: stopping...
+[11:52 AM] [INFO] TEXTURE: [ID 3] Unloaded texture data from VRAM (GPU)
+[11:52 AM] [INFO] TEXTURE: [ID 2] Unloaded texture data from VRAM (GPU)
+[11:52 AM] [INFO] SHADER: [ID 3] Default shader unloaded successfully
+[11:52 AM] [INFO] TEXTURE: [ID 1] Default texture unloaded successfully
+[11:52 AM] [INFO | NETCODE] Server Thread stopped. That's okay. System.Net.Sockets.SocketException (10004): A blocking operation was interrupted by a call to WSACancelBlockingCall.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, Boolean disconnectOnFailure, String callerName)
+   at System.Net.Sockets.Socket.Accept()
+   at System.Net.Sockets.TcpListener.AcceptTcpClient()
+   at CopperEngine.NetCode.Transport.Telepathy.Base.Server.Listen(Int32 port) in C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperEngine\Netcode\Transport\Telepathy\Base\Server.cs:line 104
+[11:52 AM] [INFO] Window closed successfully

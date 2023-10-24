@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperEngine", "CopperEngine\CopperEngine.csproj", "{5A5426FB-1BC7-49BB-AE3A-E0AAEC5B5AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperSandbox.Physics", "CopperSandbox.Physics\CopperSandbox.Physics.csproj", "{24E21BA4-6116-4F80-9383-771840166F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperSandbox.Testing", "CopperSandbox.Testing\CopperSandbox.Testing.csproj", "{A42E825C-B613-4150-B63D-14D4102B393D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperSandbox.Procedural", "CopperSandbox.Procedural\CopperSandbox.Procedural.csproj", "{A7AF87C2-0CEE-402C-87BA-0065D976DA6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasualGame", "CasualGame\CasualGame.csproj", "{42FB0546-C46F-4595-B64C-9D2A53C00BAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopperSandbox.Networking", "CopperSandbox.Networking\CopperSandbox.Networking.csproj", "{90B17681-B7EF-41D7-A6BA-7102F002A182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A5426FB-1BC7-49BB-AE3A-E0AAEC5B5AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5426FB-1BC7-49BB-AE3A-E0AAEC5B5AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5426FB-1BC7-49BB-AE3A-E0AAEC5B5AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5426FB-1BC7-49BB-AE3A-E0AAEC5B5AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E21BA4-6116-4F80-9383-771840166F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E21BA4-6116-4F80-9383-771840166F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E21BA4-6116-4F80-9383-771840166F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E21BA4-6116-4F80-9383-771840166F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A42E825C-B613-4150-B63D-14D4102B393D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42E825C-B613-4150-B63D-14D4102B393D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42E825C-B613-4150-B63D-14D4102B393D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42E825C-B613-4150-B63D-14D4102B393D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7AF87C2-0CEE-402C-87BA-0065D976DA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AF87C2-0CEE-402C-87BA-0065D976DA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AF87C2-0CEE-402C-87BA-0065D976DA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AF87C2-0CEE-402C-87BA-0065D976DA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FB0546-C46F-4595-B64C-9D2A53C00BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FB0546-C46F-4595-B64C-9D2A53C00BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FB0546-C46F-4595-B64C-9D2A53C00BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FB0546-C46F-4595-B64C-9D2A53C00BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B17681-B7EF-41D7-A6BA-7102F002A182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B17681-B7EF-41D7-A6BA-7102F002A182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B17681-B7EF-41D7-A6BA-7102F002A182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B17681-B7EF-41D7-A6BA-7102F002A182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

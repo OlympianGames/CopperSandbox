@@ -1,0 +1,52 @@
+[1:35 PM] [INFO] Initializing raylib 4.2
+[1:35 PM] [INFO] Supported raylib modules:
+[1:35 PM] [INFO]     > rcore:..... loaded (mandatory)
+[1:35 PM] [INFO]     > rlgl:...... loaded (mandatory)
+[1:35 PM] [INFO]     > rshapes:... loaded (optional)
+[1:35 PM] [INFO]     > rtextures:. loaded (optional)
+[1:35 PM] [INFO]     > rtext:..... loaded (optional)
+[1:35 PM] [INFO]     > rmodels:... loaded (optional)
+[1:35 PM] [INFO]     > raudio:.... loaded (optional)
+[1:35 PM] [INFO] DISPLAY: Trying to enable MSAA x4
+[1:35 PM] [INFO] DISPLAY: Device initialized successfully
+[1:35 PM] [INFO]     > Display size: 1366 x 768
+[1:35 PM] [INFO]     > Screen size:  800 x 450
+[1:35 PM] [INFO]     > Render size:  800 x 450
+[1:35 PM] [INFO]     > Viewport offsets: 0, 0
+[1:35 PM] [INFO] GLAD: OpenGL extensions loaded successfully
+[1:35 PM] [INFO] GL: Supported extensions count: 243
+[1:35 PM] [INFO] GL: OpenGL device information:
+[1:35 PM] [INFO]     > Vendor:   Intel
+[1:35 PM] [INFO]     > Renderer: Intel(R) UHD Graphics
+[1:35 PM] [INFO]     > Version:  3.3.0 - Build 30.0.101.1404
+[1:35 PM] [INFO]     > GLSL:     3.30 - Build 30.0.101.1404
+[1:35 PM] [INFO] GL: VAO extension detected, VAO functions loaded successfully
+[1:35 PM] [INFO] GL: NPOT textures extension detected, full NPOT textures supported
+[1:35 PM] [INFO] GL: DXT compressed textures supported
+[1:35 PM] [INFO] GL: ETC2/EAC compressed textures supported
+[1:35 PM] [INFO] GL: ASTC compressed textures supported
+[1:35 PM] [INFO] TEXTURE: [ID 1] Texture loaded successfully (1x1 | R8G8B8A8 | 1 mipmaps)
+[1:35 PM] [INFO] TEXTURE: [ID 1] Default texture loaded successfully
+[1:35 PM] [INFO] SHADER: [ID 1] Vertex shader compiled successfully
+[1:35 PM] [INFO] SHADER: [ID 2] Fragment shader compiled successfully
+[1:35 PM] [INFO] SHADER: [ID 3] Program shader loaded successfully
+[1:35 PM] [INFO] SHADER: [ID 3] Default shader loaded successfully
+[1:35 PM] [INFO] RLGL: Render batch vertex buffers loaded successfully in RAM (CPU)
+[1:35 PM] [INFO] RLGL: Render batch vertex buffers loaded successfully in VRAM (GPU)
+[1:35 PM] [INFO] RLGL: Default OpenGL state initialized successfully
+[1:35 PM] [INFO] TEXTURE: [ID 2] Texture loaded successfully (128x128 | GRAY_ALPHA | 1 mipmaps)
+[1:35 PM] [INFO] FONT: Default font loaded successfully (224 glyphs)
+[1:35 PM] [INFO] TEXTURE: [ID 3] Texture loaded successfully (512x64 | R8G8B8A8 | 1 mipmaps)
+[1:35 PM] [INFO] C:\Users\715263\AppData\Roaming\CopperStudio\CopperSandbox\
+[1:35 PM] [INFO] TEXTURE: [ID 4] Texture loaded successfully (800x450 | R8G8B8A8 | 1 mipmaps)
+[1:35 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[1:35 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[1:35 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[1:35 PM] [INFO] TEXTURE: [ID 4] Texture loaded successfully (481x431 | R8G8B8A8 | 1 mipmaps)
+[1:35 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[1:35 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[1:35 PM] [INFO] TEXTURE: [ID 3] Unloaded texture data from VRAM (GPU)
+[1:35 PM] [INFO] TEXTURE: [ID 2] Unloaded texture data from VRAM (GPU)
+[1:35 PM] [INFO] SHADER: [ID 3] Default shader unloaded successfully
+[1:35 PM] [INFO] TEXTURE: [ID 1] Default texture unloaded successfully
+[1:35 PM] [INFO] Window closed successfully

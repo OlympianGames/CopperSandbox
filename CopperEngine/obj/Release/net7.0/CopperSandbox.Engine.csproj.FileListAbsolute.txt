@@ -1,0 +1,12 @@
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\bin\Release\net7.0\CopperSandbox.Engine.deps.json
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\bin\Release\net7.0\CopperSandbox.Engine.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\bin\Release\net7.0\CopperSandbox.Engine.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\obj\Release\net7.0\CopperSandbox.Engine.csproj.AssemblyReference.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\obj\Release\net7.0\CopperSandbox.Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\obj\Release\net7.0\CopperSandbox.Engine.AssemblyInfoInputs.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\obj\Release\net7.0\CopperSandbox.Engine.AssemblyInfo.cs
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\obj\Release\net7.0\CopperSandbox.Engine.csproj.CoreCompileInputs.cache
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\obj\Release\net7.0\CopperSandbox.Engine.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\obj\Release\net7.0\refint\CopperSandbox.Engine.dll
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\obj\Release\net7.0\CopperSandbox.Engine.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\obj\Release\net7.0\ref\CopperSandbox.Engine.dll

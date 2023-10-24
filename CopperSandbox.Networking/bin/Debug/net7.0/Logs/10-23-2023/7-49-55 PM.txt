@@ -1,0 +1,68 @@
+[7:49 PM] [INFO] Adding new scene - Empty Scene - Do not use. (empty-do_not_use)
+[7:49 PM] [INFO] Adding new scene - Engine Assets (engine-assets)
+[7:49 PM] [INFO] Initializing raylib 4.2
+[7:49 PM] [INFO] Supported raylib modules:
+[7:49 PM] [INFO]     > rcore:..... loaded (mandatory)
+[7:49 PM] [INFO]     > rlgl:...... loaded (mandatory)
+[7:49 PM] [INFO]     > rshapes:... loaded (optional)
+[7:49 PM] [INFO]     > rtextures:. loaded (optional)
+[7:49 PM] [INFO]     > rtext:..... loaded (optional)
+[7:49 PM] [INFO]     > rmodels:... loaded (optional)
+[7:49 PM] [INFO]     > raudio:.... loaded (optional)
+[7:49 PM] [INFO] DISPLAY: Trying to enable MSAA x4
+[7:49 PM] [INFO] DISPLAY: Device initialized successfully
+[7:49 PM] [INFO]     > Display size: 1366 x 768
+[7:49 PM] [INFO]     > Screen size:  800 x 450
+[7:49 PM] [INFO]     > Render size:  800 x 450
+[7:49 PM] [INFO]     > Viewport offsets: 0, 0
+[7:49 PM] [INFO] GLAD: OpenGL extensions loaded successfully
+[7:49 PM] [INFO] GL: Supported extensions count: 243
+[7:49 PM] [INFO] GL: OpenGL device information:
+[7:49 PM] [INFO]     > Vendor:   Intel
+[7:49 PM] [INFO]     > Renderer: Intel(R) UHD Graphics
+[7:49 PM] [INFO]     > Version:  3.3.0 - Build 30.0.101.1404
+[7:49 PM] [INFO]     > GLSL:     3.30 - Build 30.0.101.1404
+[7:49 PM] [INFO] GL: VAO extension detected, VAO functions loaded successfully
+[7:49 PM] [INFO] GL: NPOT textures extension detected, full NPOT textures supported
+[7:49 PM] [INFO] GL: DXT compressed textures supported
+[7:49 PM] [INFO] GL: ETC2/EAC compressed textures supported
+[7:49 PM] [INFO] GL: ASTC compressed textures supported
+[7:49 PM] [INFO] TEXTURE: [ID 1] Texture loaded successfully (1x1 | R8G8B8A8 | 1 mipmaps)
+[7:49 PM] [INFO] TEXTURE: [ID 1] Default texture loaded successfully
+[7:49 PM] [INFO] SHADER: [ID 1] Vertex shader compiled successfully
+[7:49 PM] [INFO] SHADER: [ID 2] Fragment shader compiled successfully
+[7:49 PM] [INFO] SHADER: [ID 3] Program shader loaded successfully
+[7:49 PM] [INFO] SHADER: [ID 3] Default shader loaded successfully
+[7:49 PM] [INFO] RLGL: Render batch vertex buffers loaded successfully in RAM (CPU)
+[7:49 PM] [INFO] RLGL: Render batch vertex buffers loaded successfully in VRAM (GPU)
+[7:49 PM] [INFO] RLGL: Default OpenGL state initialized successfully
+[7:49 PM] [INFO] TEXTURE: [ID 2] Texture loaded successfully (128x128 | GRAY_ALPHA | 1 mipmaps)
+[7:49 PM] [INFO] FONT: Default font loaded successfully (224 glyphs)
+[7:49 PM] [INFO] TEXTURE: [ID 3] Texture loaded successfully (512x64 | R8G8B8A8 | 1 mipmaps)
+[7:49 PM] [INFO] Adding new <CopperEngine.Components.Editor.EditorCameraController> to <Engine Assets> scene
+[7:49 PM] [INFO] Adding new <CopperEngine.Components.Editor.EditorCameraDrawer> to <Engine Assets> scene
+[7:49 PM] [INFO] Adding new <CopperEngine.Ui.Windows.InfoWindow> to <Engine Assets> scene
+[7:49 PM] [INFO] Adding new <CopperEngine.Ui.Windows.SceneSwitcherWindow> to <Engine Assets> scene
+[7:49 PM] [INFO] Adding new <CopperEngine.Ui.Windows.ConsoleWindow> to <Engine Assets> scene
+[7:49 PM] [INFO] Adding new <CopperEngine.Ui.Windows.ConfigWindow> to <Engine Assets> scene
+[7:49 PM] [INFO] Adding new scene - Networked Cubes (networked-cubes)
+[7:49 PM] [INFO] Adding new <CopperEngine.Components.Common.EnvironmentComponent> to <Networked Cubes> scene
+[7:49 PM] [INFO] VAO: [ID 2] Mesh uploaded successfully to VRAM (GPU)
+[7:49 PM] [INFO] TEXTURE: [ID 4] Texture loaded successfully (100x100 | R8G8B8A8 | 1 mipmaps)
+[7:49 PM] [INFO] TEXTURE: [ID 4] Mipmaps generated automatically, total: 7
+[7:49 PM] [INFO] Adding new <CopperSandbox.Networking.ClientNetworkedCubes> to <Networked Cubes> scene
+[7:49 PM] [INFO] Adding new scene - NetCode Objects (netcode-objects)
+[7:49 PM] [INFO] Starting a new TelepathyClient with a max message size of 16384
+[7:49 PM] [INFO] Adding new <CopperEngine.NetCode.Client> to <NetCode Objects> scene
+[7:49 PM] [INFO] TEXTURE: [ID 5] Texture loaded successfully (800x450 | R8G8B8A8 | 1 mipmaps)
+[7:49 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[7:49 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[7:49 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[7:49 PM] [INFO] TEXTURE: [ID 5] Texture loaded successfully (428x431 | R8G8B8A8 | 1 mipmaps)
+[7:49 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[7:49 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[7:49 PM] [INFO] TEXTURE: [ID 3] Unloaded texture data from VRAM (GPU)
+[7:49 PM] [INFO] TEXTURE: [ID 2] Unloaded texture data from VRAM (GPU)
+[7:49 PM] [INFO] SHADER: [ID 3] Default shader unloaded successfully
+[7:49 PM] [INFO] TEXTURE: [ID 1] Default texture unloaded successfully
+[7:49 PM] [INFO] Window closed successfully

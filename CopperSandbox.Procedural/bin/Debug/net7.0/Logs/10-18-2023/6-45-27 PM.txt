@@ -1,0 +1,187 @@
+[6:45 PM] [INFO] Initializing raylib 4.2
+[6:45 PM] [INFO] Supported raylib modules:
+[6:45 PM] [INFO]     > rcore:..... loaded (mandatory)
+[6:45 PM] [INFO]     > rlgl:...... loaded (mandatory)
+[6:45 PM] [INFO]     > rshapes:... loaded (optional)
+[6:45 PM] [INFO]     > rtextures:. loaded (optional)
+[6:45 PM] [INFO]     > rtext:..... loaded (optional)
+[6:45 PM] [INFO]     > rmodels:... loaded (optional)
+[6:45 PM] [INFO]     > raudio:.... loaded (optional)
+[6:45 PM] [INFO] DISPLAY: Trying to enable MSAA x4
+[6:45 PM] [INFO] DISPLAY: Device initialized successfully
+[6:45 PM] [INFO]     > Display size: 1366 x 768
+[6:45 PM] [INFO]     > Screen size:  800 x 450
+[6:45 PM] [INFO]     > Render size:  800 x 450
+[6:45 PM] [INFO]     > Viewport offsets: 0, 0
+[6:45 PM] [INFO] GLAD: OpenGL extensions loaded successfully
+[6:45 PM] [INFO] GL: Supported extensions count: 243
+[6:45 PM] [INFO] GL: OpenGL device information:
+[6:45 PM] [INFO]     > Vendor:   Intel
+[6:45 PM] [INFO]     > Renderer: Intel(R) UHD Graphics
+[6:45 PM] [INFO]     > Version:  3.3.0 - Build 30.0.101.1404
+[6:45 PM] [INFO]     > GLSL:     3.30 - Build 30.0.101.1404
+[6:45 PM] [INFO] GL: VAO extension detected, VAO functions loaded successfully
+[6:45 PM] [INFO] GL: NPOT textures extension detected, full NPOT textures supported
+[6:45 PM] [INFO] GL: DXT compressed textures supported
+[6:45 PM] [INFO] GL: ETC2/EAC compressed textures supported
+[6:45 PM] [INFO] GL: ASTC compressed textures supported
+[6:45 PM] [INFO] TEXTURE: [ID 1] Texture loaded successfully (1x1 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Default texture loaded successfully
+[6:45 PM] [INFO] SHADER: [ID 1] Vertex shader compiled successfully
+[6:45 PM] [INFO] SHADER: [ID 2] Fragment shader compiled successfully
+[6:45 PM] [INFO] SHADER: [ID 3] Program shader loaded successfully
+[6:45 PM] [INFO] SHADER: [ID 3] Default shader loaded successfully
+[6:45 PM] [INFO] RLGL: Render batch vertex buffers loaded successfully in RAM (CPU)
+[6:45 PM] [INFO] RLGL: Render batch vertex buffers loaded successfully in VRAM (GPU)
+[6:45 PM] [INFO] RLGL: Default OpenGL state initialized successfully
+[6:45 PM] [INFO] TEXTURE: [ID 2] Texture loaded successfully (128x128 | GRAY_ALPHA | 1 mipmaps)
+[6:45 PM] [INFO] FONT: Default font loaded successfully (224 glyphs)
+[6:45 PM] [INFO] TEXTURE: [ID 3] Texture loaded successfully (512x64 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] VAO: [ID 2] Mesh uploaded successfully to VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 4] Texture loaded successfully (2x2 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 4] Mipmaps generated automatically, total: 2
+[6:45 PM] [INFO] VAO: [ID 3] Mesh uploaded successfully to VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 5] Texture loaded successfully (2x2 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 5] Mipmaps generated automatically, total: 2
+[6:45 PM] [INFO] VAO: [ID 4] Mesh uploaded successfully to VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 6] Texture loaded successfully (2x2 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 6] Mipmaps generated automatically, total: 2
+[6:45 PM] [INFO] VAO: [ID 5] Mesh uploaded successfully to VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 7] Texture loaded successfully (2x2 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 7] Mipmaps generated automatically, total: 2
+[6:45 PM] [INFO] Time to create rigidbodies - 0:00.118
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (800x450 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (800x431 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (800x717 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1366x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1366x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1229x653 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1366x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1118x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (670x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1118x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1117x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1116x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1112x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1110x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1107x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1094x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1087x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1084x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1071x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1056x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1045x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1032x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1023x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (1005x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (998x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (994x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (993x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (994x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:45 PM] [INFO] FBO: [ID 1] Unloaded framebuffer from VRAM (GPU)
+[6:45 PM] [INFO] TEXTURE: [ID 8] Texture loaded successfully (997x726 | R8G8B8A8 | 1 mipmaps)
+[6:45 PM] [INFO] TEXTURE: [ID 1] Depth renderbuffer loaded successfully (32 bits)
+[6:45 PM] [INFO] FBO: [ID 1] Framebuffer object created successfully
+[6:46 PM] [ERROR] [System.NullReferenceException] Object reference not set to an instance of an object. 
+    at CopperSandbox.Engine.Physics.PhysicsSphere.set_Position(Vector3 value) in C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\Physics\PhysicsSphere.cs:line 20
+   at CopperSandbox.Procedural.CubeWater.WindowUpdate() in C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\CubeWater.cs:line 118
+   at CopperSandbox.Engine.CopperWindow.UiUpdate() in C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\CopperWindow.cs:line 29
+   at CopperSandbox.Engine.Scenes.SceneManager.SceneComponentsUpdateRunner(List`1 components, UpdateType updateType) in C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\Scenes\SceneManager.cs:line 84
+[6:46 PM] [ERROR] [System.NullReferenceException] Object reference not set to an instance of an object. 
+    at CopperSandbox.Engine.Physics.PhysicsSphere.set_Position(Vector3 value) in C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\Physics\PhysicsSphere.cs:line 20
+   at CopperSandbox.Procedural.CubeWater.WindowUpdate() in C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\CubeWater.cs:line 118
+   at CopperSandbox.Engine.CopperWindow.UiUpdate() in C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\CopperWindow.cs:line 29
+   at CopperSandbox.Engine.Scenes.SceneManager.SceneComponentsUpdateRunner(List`1 components, UpdateType updateType) in C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\Scenes\SceneManager.cs:line 84
+[6:47 PM] [ERROR] [System.NullReferenceException] Object reference not set to an instance of an object. 
+    at CopperSandbox.Engine.Physics.PhysicsSphere.set_Position(Vector3 value) in C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\Physics\PhysicsSphere.cs:line 20
+   at CopperSandbox.Procedural.CubeWater.WindowUpdate() in C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\CubeWater.cs:line 118
+   at CopperSandbox.Engine.CopperWindow.UiUpdate() in C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\CopperWindow.cs:line 29
+   at CopperSandbox.Engine.Scenes.SceneManager.SceneComponentsUpdateRunner(List`1 components, UpdateType updateType) in C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Engine\Scenes\SceneManager.cs:line 84
+[6:48 PM] [INFO] TEXTURE: [ID 3] Unloaded texture data from VRAM (GPU)
+[6:48 PM] [INFO] TEXTURE: [ID 2] Unloaded texture data from VRAM (GPU)
+[6:48 PM] [INFO] SHADER: [ID 3] Default shader unloaded successfully
+[6:48 PM] [INFO] TEXTURE: [ID 1] Default texture unloaded successfully
+[6:48 PM] [INFO] Window closed successfully

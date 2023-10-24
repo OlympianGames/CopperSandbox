@@ -1,0 +1,57 @@
+[12:08 AM] [INFO] Initializing raylib 4.2
+[12:08 AM] [INFO] Supported raylib modules:
+[12:08 AM] [INFO]     > rcore:..... loaded (mandatory)
+[12:08 AM] [INFO]     > rlgl:...... loaded (mandatory)
+[12:08 AM] [INFO]     > rshapes:... loaded (optional)
+[12:08 AM] [INFO]     > rtextures:. loaded (optional)
+[12:08 AM] [INFO]     > rtext:..... loaded (optional)
+[12:08 AM] [INFO]     > rmodels:... loaded (optional)
+[12:08 AM] [INFO]     > raudio:.... loaded (optional)
+[12:08 AM] [INFO] DISPLAY: Trying to enable MSAA x4
+[12:08 AM] [INFO] DISPLAY: Device initialized successfully
+[12:08 AM] [INFO]     > Display size: 1366 x 768
+[12:08 AM] [INFO]     > Screen size:  800 x 450
+[12:08 AM] [INFO]     > Render size:  800 x 450
+[12:08 AM] [INFO]     > Viewport offsets: 0, 0
+[12:08 AM] [INFO] GLAD: OpenGL extensions loaded successfully
+[12:08 AM] [INFO] GL: Supported extensions count: 243
+[12:08 AM] [INFO] GL: OpenGL device information:
+[12:08 AM] [INFO]     > Vendor:   Intel
+[12:08 AM] [INFO]     > Renderer: Intel(R) UHD Graphics
+[12:08 AM] [INFO]     > Version:  3.3.0 - Build 30.0.101.1404
+[12:08 AM] [INFO]     > GLSL:     3.30 - Build 30.0.101.1404
+[12:08 AM] [INFO] GL: VAO extension detected, VAO functions loaded successfully
+[12:08 AM] [INFO] GL: NPOT textures extension detected, full NPOT textures supported
+[12:08 AM] [INFO] GL: DXT compressed textures supported
+[12:08 AM] [INFO] GL: ETC2/EAC compressed textures supported
+[12:08 AM] [INFO] GL: ASTC compressed textures supported
+[12:08 AM] [INFO] TEXTURE: [ID 1] Texture loaded successfully (1x1 | R8G8B8A8 | 1 mipmaps)
+[12:08 AM] [INFO] TEXTURE: [ID 1] Default texture loaded successfully
+[12:08 AM] [INFO] SHADER: [ID 1] Vertex shader compiled successfully
+[12:08 AM] [INFO] SHADER: [ID 2] Fragment shader compiled successfully
+[12:08 AM] [INFO] SHADER: [ID 3] Program shader loaded successfully
+[12:08 AM] [INFO] SHADER: [ID 3] Default shader loaded successfully
+[12:08 AM] [INFO] RLGL: Render batch vertex buffers loaded successfully in RAM (CPU)
+[12:08 AM] [INFO] RLGL: Render batch vertex buffers loaded successfully in VRAM (GPU)
+[12:08 AM] [INFO] RLGL: Default OpenGL state initialized successfully
+[12:08 AM] [INFO] TEXTURE: [ID 2] Texture loaded successfully (128x128 | GRAY_ALPHA | 1 mipmaps)
+[12:08 AM] [INFO] FONT: Default font loaded successfully (224 glyphs)
+[12:08 AM] [INFO] TEXTURE: [ID 3] Texture loaded successfully (512x64 | R8G8B8A8 | 1 mipmaps)
+[12:08 AM] [INFO] VAO: [ID 2] Mesh uploaded successfully to VRAM (GPU)
+[12:08 AM] [INFO] TEXTURE: [ID 4] Texture loaded successfully (2x2 | R8G8B8A8 | 1 mipmaps)
+[12:08 AM] [INFO] TEXTURE: [ID 4] Mipmaps generated automatically, total: 2
+[12:08 AM] [INFO] VAO: [ID 3] Mesh uploaded successfully to VRAM (GPU)
+[12:08 AM] [INFO] TEXTURE: [ID 5] Texture loaded successfully (2x2 | R8G8B8A8 | 1 mipmaps)
+[12:08 AM] [INFO] TEXTURE: [ID 5] Mipmaps generated automatically, total: 2
+[12:08 AM] [INFO] VAO: [ID 4] Mesh uploaded successfully to VRAM (GPU)
+[12:08 AM] [INFO] TEXTURE: [ID 6] Texture loaded successfully (2x2 | R8G8B8A8 | 1 mipmaps)
+[12:08 AM] [INFO] TEXTURE: [ID 6] Mipmaps generated automatically, total: 2
+[12:08 AM] [INFO] VAO: [ID 5] Mesh uploaded successfully to VRAM (GPU)
+[12:08 AM] [INFO] TEXTURE: [ID 7] Texture loaded successfully (2x2 | R8G8B8A8 | 1 mipmaps)
+[12:08 AM] [INFO] TEXTURE: [ID 7] Mipmaps generated automatically, total: 2
+[12:08 AM] [INFO] Time to create rigidbodies - 0:00.086
+[12:08 AM] [INFO] TEXTURE: [ID 3] Unloaded texture data from VRAM (GPU)
+[12:08 AM] [INFO] TEXTURE: [ID 2] Unloaded texture data from VRAM (GPU)
+[12:08 AM] [INFO] SHADER: [ID 3] Default shader unloaded successfully
+[12:08 AM] [INFO] TEXTURE: [ID 1] Default texture unloaded successfully
+[12:08 AM] [INFO] Window closed successfully

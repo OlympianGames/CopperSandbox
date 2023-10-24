@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3h9PvYQGxbTsHFCLBmqcNaifjhFJl0U2Zp9l8lhgtswRk3kvK+uBIedrs13NaRMy5cH9V4VwbdaosDH7AG/0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\715263\\Desktop\\School-Work\\Dev\\Projects\\Rider\\CopperSandbox\\CopperSandbox.Procedural\\CopperSandbox.Procedural.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\715263\\.nuget\\packages\\jitter2\\2.0.0-alpha\\jitter2.2.0.0-alpha.nupkg.sha512",
+    "C:\\Users\\715263\\.nuget\\packages\\microsoft.toolkit.highperformance\\7.1.2\\microsoft.toolkit.highperformance.7.1.2.nupkg.sha512",
+    "C:\\Users\\715263\\.nuget\\packages\\raylib-cslo\\4.2.0.9\\raylib-cslo.4.2.0.9.nupkg.sha512",
+    "C:\\Users\\715263\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\715263\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\715263\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\715263\\.nuget\\packages\\twizzle.imgui.net\\1.89.4\\twizzle.imgui.net.1.89.4.nupkg.sha512",
+    "C:\\Users\\715263\\.nuget\\packages\\twizzle.imguizmo.net\\1.89.4.1\\twizzle.imguizmo.net.1.89.4.1.nupkg.sha512",
+    "C:\\Users\\715263\\.nuget\\packages\\twizzle.imnodes.net\\1.89.4\\twizzle.imnodes.net.1.89.4.nupkg.sha512",
+    "C:\\Users\\715263\\.nuget\\packages\\twizzle.implot.net\\1.89.4\\twizzle.implot.net.1.89.4.nupkg.sha512"
+  ],
+  "logs": []
+}
