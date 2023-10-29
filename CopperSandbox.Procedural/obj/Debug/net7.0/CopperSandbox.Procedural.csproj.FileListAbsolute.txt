@@ -55,3 +55,15 @@ C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandb
 C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\obj\Debug\net7.0\ref\CopperSandbox.Procedural.dll
 C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\CopperEngine.dll
 C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\CopperEngine.pdb
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\Resources\Fonts\Inter\static\Inter-Black.ttf
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\Resources\Fonts\Inter\static\Inter-Bold.ttf
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\Resources\Fonts\Inter\static\Inter-ExtraBold.ttf
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\Resources\Fonts\Inter\static\Inter-ExtraLight.ttf
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\Resources\Fonts\Inter\static\Inter-Light.ttf
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\Resources\Fonts\Inter\static\Inter-Medium.ttf
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\Resources\Fonts\Inter\static\Inter-Regular.ttf
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\Resources\Fonts\Inter\static\Inter-SemiBold.ttf
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\Resources\Fonts\Inter\static\Inter-Thin.ttf
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\Resources\Fonts\Inter\Inter-VariableFont_slnt,wght.ttf
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\Resources\Fonts\Inter\OFL.txt
+C:\Users\715263\Desktop\School-Work\Dev\Projects\Rider\CopperSandbox\CopperSandbox.Procedural\bin\Debug\net7.0\Resources\Fonts\Inter\README.txt

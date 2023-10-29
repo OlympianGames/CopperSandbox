@@ -1,7 +1,6 @@
 ﻿using System.Reflection;
 using CopperEngine.Core;
 using CopperEngine.Logs;
-using CopperEngine.NetCode;
 
 namespace CopperEngine.Scenes;
 
@@ -25,7 +24,6 @@ public static class SceneManager
         var sceneKeys = Scenes?.Values.ToList();
         sceneKeys?.Remove(EmptyScene);
         sceneKeys?.Remove(CopperEngine.Core.CopperEngine.EngineScene);
-        sceneKeys?.Remove(CopperNetCode.NetCodeScene);
         return sceneKeys!;
     }
 
