@@ -1,10 +1,10 @@
 ﻿using System.Numerics;
-using CopperEngine.Components.Common;
-using CopperEngine.Data;
-using CopperEngine.Physics;
-using CopperEngine.Scenes;
-using CopperEngine.Utility;
-using Engine = CopperEngine.Core.CopperEngine;
+using CopperSandbox.Engine.Components.Common;
+using CopperSandbox.Engine.Core;
+using CopperSandbox.Engine.Data;
+using CopperSandbox.Engine.Physics;
+using CopperSandbox.Engine.Scenes;
+using CopperSandbox.Engine.Utility;
 
 namespace CopperSandbox.Physics;
 
@@ -17,7 +17,7 @@ public static class Program
             EngineConfig = EngineConfig.EditorEnabled | EngineConfig.EditorAtStart| EngineConfig.DebugVisuals,
             WindowTitle =  "Copper's Physics Sandbox"
         };
-        Engine.Initialize(engineSettings);
+        CopperEngine.Initialize(engineSettings);
         
         var cubePhysics = new Scene("Cube Physics", "cube-physics");
         cubePhysics.AddComponent(new EnvironmentComponent());
@@ -49,6 +49,6 @@ public static class Program
         shapeFountain.AddComponent(new ShapeFountain());
         shapeFountain.AddComponent(new EnvironmentComponent());
         
-        Engine.Update();
+        CopperEngine.Update();
     }
 }

@@ -1,8 +1,8 @@
 ﻿using System.Numerics;
-using CopperEngine.Core;
-using CopperEngine.Physics;
-using CopperEngine.Rendering;
-using CopperEngine.Utility;
+using CopperSandbox.Engine.Core;
+using CopperSandbox.Engine.Physics;
+using CopperSandbox.Engine.Rendering;
+using CopperSandbox.Engine.Utility;
 using ImGuiNET;
 
 namespace CopperSandbox.Physics;

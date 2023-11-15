@@ -1,4 +1,4 @@
-﻿using CopperEngine.Procedural;
+﻿using CopperSandbox.Engine.Procedural;
 using ImGuiNET;
 
 namespace CopperSandbox.Procedural;
