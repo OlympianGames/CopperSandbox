@@ -2,10 +2,6 @@
 
 > Collection of sandbox games each with a different theme/genre
 
-### ToDo
-- [ ] Code comments
-- [ ] XML comments documentation
-
 ## Current Sandboxes
 
 - Physics
