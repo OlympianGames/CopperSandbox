@@ -135,6 +135,8 @@ public static class CopperEngine
     {
         while (!Window.ShouldClose())
         {
+            CopperEditor.EditorToggleCheck();
+            
             Graphics.BeginDrawing();
             if (EditorEnabled && EditorActive)
                     Graphics.BeginTextureMode(CopperEditor.RenderTexture);

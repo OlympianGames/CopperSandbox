@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "CopperSandbox.Procedural/1.0.0": {
         "dependencies": {
-          "CopperEngine": "1.0.0"
+          "CopperSandbox.Engine": "1.0.0"
         },
         "runtime": {
           "CopperSandbox.Procedural.dll": {}
@@ -269,7 +269,7 @@
           }
         }
       },
-      "CopperEngine/1.0.0": {
+      "CopperSandbox.Engine/1.0.0": {
         "dependencies": {
           "Jitter2": "2.0.0-alpha",
           "Raylib-CsLo": "4.2.0.9",
@@ -279,7 +279,7 @@
           "Twizzle.ImPlot.NET": "1.89.4"
         },
         "runtime": {
-          "CopperEngine.dll": {}
+          "CopperSandbox.Engine.dll": {}
         }
       }
     }
@@ -360,7 +360,7 @@
       "path": "twizzle.implot.net/1.89.4",
       "hashPath": "twizzle.implot.net.1.89.4.nupkg.sha512"
     },
-    "CopperEngine/1.0.0": {
+    "CopperSandbox.Engine/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,5 +1,6 @@
 ﻿using System.Numerics;
 using CopperSandbox.Engine.Info;
+using CopperSandbox.Engine.Logs;
 using CopperSandbox.Engine.Rendering;
 using CopperSandbox.Engine.Ui;
 using CopperSandbox.Engine.Utility;
@@ -30,7 +31,6 @@ public static class CopperEditor
             return;
         initialized = true;
 
-        CopperEngine.EngineUpdate += EditorToggleCheck;
         CopperEngine.EngineUpdate += Update;
         CopperEngine.EngineFixedUpdate += FixedUpdate;
         CopperEngine.EngineUiUpdate += UiUpdate;
@@ -88,7 +88,7 @@ public static class CopperEditor
         
     }
 
-    private static void EditorToggleCheck()
+    internal static void EditorToggleCheck()
     {
         if (Input.IsKeyPressed(KeyboardKey.KEY_F1))
         {

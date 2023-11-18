@@ -23,6 +23,8 @@ public class Scene
     {
         components.ToList().ForEach(AddComponent);
     }
+
+    public void AddComponent<T>() where T : CopperComponent, new() => AddComponent(new T());
     
     public void AddComponent(CopperComponent component)
     {
