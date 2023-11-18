@@ -40,7 +40,7 @@ Simple engine built specifically for making sandbox style games with simple `ImG
 
 - [Raylib](https://github.com/raysan5/raylib)/[Raylib-CsLo](https://github.com/NotNotTech/Raylib-CsLo)
 - [Jitter Physics](https://github.com/notgiven688/jitterphysics)
-- [Dear Imgui](https://github.com/ocornut/imgui)/[ImGui.NET](https://github.com/ImGuiNET/ImGui.NET)
+- [Dear Imgui](https://github.com/ocornut/imgui)/[ImGui.NET](https://github.com/JoeTwizzle/ImGui.NET)
 
 ## Documentation
 
